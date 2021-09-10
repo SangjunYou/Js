@@ -93,3 +93,11 @@ setImmediate = 타이머
 setImmediate(() => {
     console.log('Hello! My name is Codey.')
 });
+
+Message Mixer
+Message Mixer Inc.는 다양한 암호를 사용하여 입력 텍스트를 변환하고
+암호화된 메시지를 콘솔에 표시하는 메시지 암호화 서비스를 제공합니다.
+-"Caesar" = 입력 메시지의 문자를 지정된 양만큼 알파벳 순으로 이동하는 암호입니다.
+-"Symbol" =  입력 메시지에서 선택한 문자가 시각적으로 유사한 기호로 대체되는 "암호"입니다.
+-"Reverse" = 입력 메시지의 각 단어가 제자리에 반전되는 암호 입니다.
+사용방법 = node message-mixer.js ['caesar'|'symbol'|'reverse'] [amount]
