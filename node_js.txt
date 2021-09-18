@@ -145,3 +145,7 @@ HTTP 상태 코드
 4)  Client Errors : 400~499의 범위.
 5) 서버 오류: 500에서 599 사이의 범위입니다
 (res.statusCode = 입력값 ;) 을 사용하여 값을 지정 가능
+
+REST 
+REST 또는 REpresentational State Transfer는 웹 상의 컴퓨터 시스템들 사이에 표준을
+제공하기 위한 아키텍처 스타일로, 시스템들이 서로 통신하는 것을 더 쉽게 한다
