@@ -1,1 +1,1 @@
-# Jsp(JavaScript)/HTML
+# Js(JavaScript)/HTML
