@@ -1,1 +1,1 @@
-# Js(JavaScript)/HTML
+# JavaScript/HTML
